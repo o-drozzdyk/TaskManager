@@ -3,12 +3,12 @@
 TaskManager is a simple and effective tool for task management. The project allows you to add new tasks, change their status (completed/active), view all tasks based on the selected status, and delete tasks.
 
 ## Technologies that we used
-HTML
-CSS
-SCSS
-JavaScript
-TypeScript
-React
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- TypeScript
+- React
 
 ## Key Features
 - **Add Tasks:** Easily add new tasks to the list.
